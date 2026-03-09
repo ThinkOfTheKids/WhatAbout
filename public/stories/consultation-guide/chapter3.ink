@@ -39,7 +39,11 @@ Yes. This isn't hypothetical.
 
 70,000 age verification photos were stolen from Discord's third-party verification provider in 2025. Facial recognition systems have documented bias against darker skin tones and women. The GOV.UK One Login system has faced security concerns. [2][3]
 
-The question doesn't mention any of this. It asks about age checks as if they're as simple as showing ID at a bar—not uploading your face to a database that might be breached.
+And in February 2026, it got far worse. Leaked source code from Persona—the verification provider used by Discord, OpenAI, Roblox, and Reddit—revealed the company ran 269 surveillance checks on every user who submitted ID. Facial recognition against political watchlists. Suspicious Activity Reports filed to US federal agencies. Biometric data retained for up to three years. The company's commercial and government platforms shared the same codebase. [11]
+
+Discord cut ties. But Roblox, Reddit, and others still use Persona. The company that was "just checking your age" was operating a government surveillance pipeline.
+
+The question asks about age checks as if they're as simple as showing ID at a bar. They're not. They're feeding your face into systems you can't see, can't audit, and can't opt out of.
 
 *   [What about Q40-43?]
     -> Ch3_Q40_43

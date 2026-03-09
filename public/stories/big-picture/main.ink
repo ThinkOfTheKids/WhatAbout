@@ -404,6 +404,10 @@ Political targeting — Browsing history tied to real identity means knowing who
 
 Blackmail potential — Any database of sensitive information—age-verified adult site visits, medical records, location history—is a blackmail database if breached. [11]
 
+And it's not just breaches. In February 2026, leaked source code from Persona—the age verification provider used by Discord, OpenAI, Roblox, and Reddit—revealed 269 surveillance checks per user, facial recognition against political watchlists, and Suspicious Activity Reports filed directly to US federal agencies. The company's commercial platform shared the same codebase as its government surveillance platform. Backed by Peter Thiel's Founders Fund—the same investor behind Palantir, a key ICE contractor. [38]
+
+The company that "just checks your age" was operating a government surveillance pipeline. This isn't a hypothetical risk. It's already happening.
+
 You might trust the current government. But this infrastructure will exist for decades.
 
 + [Tell me about the chilling effect]

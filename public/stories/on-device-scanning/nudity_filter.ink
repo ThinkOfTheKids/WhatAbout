@@ -85,6 +85,8 @@ Age verification systems have serious problems of their own.[1]
 
 Uploading identity documents or face scans to third-party companies creates security risks. Discord confirmed 70,000 users' ID verification photos were stolen in a 2025 breach—including children's photos.[1]
 
+In February 2026, it got worse. Leaked source code from Persona—Discord's age verification provider—revealed the company ran 269 surveillance checks per user, filed Suspicious Activity Reports to US federal agencies, and screened faces against political watchlists. The "age check" was actually a surveillance pipeline. Discord dropped Persona, but Roblox and Reddit still use them.[5]
+
 Interested in exploring this separately?
 
 *   [Yes, tell me about age verification.]

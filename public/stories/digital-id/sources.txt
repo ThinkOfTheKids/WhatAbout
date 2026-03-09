@@ -53,3 +53,6 @@ url: https://www.theguardian.com/technology/2025/sep/26/kido-nursery-hackers-rad
 
 [16]: Defend Digital Me: NHS number to be mandated as national ID in Children's Bill
 url: https://defenddigitalme.org/2025/06/14/nhs-number-to-be-national-id-mandated-in-childrens-wellbeing-and-schools-bill/
+
+[17]: vmfunc.re: The Watchers — Persona age verification surveillance pipeline revealed
+url: https://vmfunc.re/blog/persona
