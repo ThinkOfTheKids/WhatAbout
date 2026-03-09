@@ -37,7 +37,7 @@ Here's something the consultation buries: gaming platforms are discussed extensi
 
 The document talks about Roblox, Fortnite, and online gaming alongside social media. If these restrictions apply to platforms with user-to-user interaction, that includes most online games.
 
-A large portion of the public might react very differently if the question was: "Should your child need to verify their identity to play games online?"
+A large portion of the public might react very differently if they realised that they would need to verify their own identity every time they want to play a game online. Some might welcome age checks for children in principle—without considering that there's no way to prove you're an adult without proving who you are.
 
 But it isn't framed that way.
 
@@ -109,13 +109,10 @@ If you believe age restrictions are the wrong approach, Q15 is where you say so�
 
 Some things to think about (not template text—think about which of these matter to you personally):
 
-The "cliff edge" problem: children turning 16 with zero digital literacy or resilience.
-
-Australia's experience—early evidence suggests displacement to less safe platforms rather than reduced usage.
-
-That enforcement requires age verification for ALL users, not just children. Your data too.
-
-That on-device parental controls already exist, work without surveillance infrastructure, and let families make their own decisions.
+• The "cliff edge" problem: children turning 16 with zero digital literacy or resilience.
+• Australia's experience—early evidence suggests displacement to less safe platforms rather than reduced usage.
+• That enforcement requires age verification for ALL users, not just children. Your data too.
+• That on-device parental controls already exist, work without surveillance infrastructure, and let families make their own decisions.
 
 If you support parental controls and education over bans, say it here. Say it clearly. And say it in as many free-text boxes as you can throughout the consultation.
 

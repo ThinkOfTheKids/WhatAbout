@@ -23,6 +23,8 @@ The list conflates genuinely dangerous features with features that are risky onl
 
 "Ability to send nude images" and "connecting with strangers" are obviously concerning. But they're listed alongside "disappearing content" and "live streaming"—features with legitimate uses.
 
+And here's a hidden trap: for a platform to detect and block "the ability to send nude images," it needs to know what's in the image before it's sent. That means either on-device scanning of every photo you take, or breaking end-to-end encryption so the platform can inspect message contents server-side. You've just agreed to mass surveillance of private communications.
+
 Disappearing messages are a privacy feature. Signal, WhatsApp, and security experts recommend them for everyone. A child messaging friends with auto-delete is practicing good digital hygiene.
 
 Live streaming a Minecraft build for friends is different from live streaming to unknown adults. Context matters—but the question doesn't allow for context.

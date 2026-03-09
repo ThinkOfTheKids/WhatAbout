@@ -43,7 +43,7 @@ People valued their privacy enough to take action. The government's response isn
 === Overview_Takeaway3 ===
 3. Education comes last. Digital literacy is Chapter 4 of 5. That's not an accident—it's a structural statement of priority. Restrict first, educate second.
 
-4. Gaming is in the crosshairs but hidden. The consultation document discusses gaming platforms extensively in its framing—but the actual questions don't mention gaming directly. A large portion of the public might react very differently if they understood they'd need to age-verify to play games.
+4. Gaming is in the crosshairs but hidden. The consultation document discusses gaming platforms extensively in its framing—but the actual questions don't mention gaming directly. A large portion of the public might react very differently if they realised they'd need to verify their own identity every time they want to play a game online. Some might welcome this for children—without considering that proving you're old enough means proving who you are.
 
 *   [And the fifth?]
     -> Overview_Takeaway5

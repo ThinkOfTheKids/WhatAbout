@@ -17,7 +17,6 @@ INCLUDE chapter3.ink
 INCLUDE chapter4.ink
 INCLUDE chapter5.ink
 
-Lets talk about...
 The government wants to know what you think about children and the internet. # diagram: consultation_hero.jpg
 
 The "Growing up in the online world" consultation launched on 2 March 2026. It closes on 26 May 2026.
@@ -86,9 +85,7 @@ If you believe on-device parental controls and education are better solutions, s
     -> Path_Choice
 
 === Path_Choice ===
-The consultation has five chapters. How do you want to go through it?
-
-Take the full consultation here: https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation
+The consultation has five chapters. How do you want to go through it? # cta: consultation
 
 *   [Walk me through everything—I'll fill in the full form alongside this.]
     The form has 62 questions across five chapters. Let's go chapter by chapter.
@@ -122,12 +119,10 @@ Don't copy this guide. Don't copy anyone. Read the questions, think about your e
 
 The most powerful thing you can write is something no one else will write—because it comes from your life, your family, your community.
 
-Remember: if you support on-device parental controls and education over age verification and bans, say so clearly and say so often. Free-text boxes are where your voice has the most impact.
-
-Take the consultation: https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation
+Remember: if you support on-device parental controls and education over age verification and bans, say so clearly and say so often. Free-text boxes are where your voice has the most impact. # cta: consultation
 
 *   [Take me to the consultation form.]
-    The form is at: https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation
+    Good luck. Your voice matters. # cta: consultation
     ~ exit()
     -> END
 *   [I want to explore other topics on this site.]

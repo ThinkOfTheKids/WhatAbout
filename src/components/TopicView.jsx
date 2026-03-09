@@ -11,6 +11,14 @@ marked.use({
     gfm: true,
 });
 
+// CTA link registry — Ink strips // from URLs, so we use tag keys instead
+const CTA_LINKS = {
+    consultation: {
+        url: 'https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation',
+        label: 'Take the consultation on GOV.UK →',
+    },
+};
+
 // Parse sources.txt format into a lookup object
 const parseSources = (text) => {
     const sources = {};
@@ -136,6 +144,7 @@ const TopicView = ({ storyContent, storyId, storyTitle, parentStoryTitle, savedS
 
         paragraphs.forEach((p, index) => {
             const diagramTag = p.tags?.find(t => t.startsWith('diagram:'));
+            const ctaTag = p.tags?.find(t => t.startsWith('cta:'));
 
             if (diagramTag) {
                 // Flush any pending text before adding the diagram
@@ -152,6 +161,24 @@ const TopicView = ({ storyContent, storyId, storyTitle, parentStoryTitle, savedS
                 // Also add the paragraph's text if it has any (diagram and text can be on same paragraph)
                 if (p.text && p.text.trim()) {
                     textBatch.push(p.text);
+                }
+            } else if (ctaTag) {
+                // Render a call-to-action button/link
+                if (p.text && p.text.trim()) {
+                    textBatch.push(p.text);
+                }
+                flushTextBatch(index);
+
+                const ctaKey = ctaTag.split(':')[1].trim();
+                const cta = CTA_LINKS[ctaKey];
+                if (cta) {
+                    elements.push(
+                        <div key={`cta-${index}`} className={styles.ctaContainer}>
+                            <a href={cta.url} target="_blank" rel="noopener noreferrer" className={styles.ctaButton}>
+                                {cta.label}
+                            </a>
+                        </div>
+                    );
                 }
             } else {
                 // Add text to batch
