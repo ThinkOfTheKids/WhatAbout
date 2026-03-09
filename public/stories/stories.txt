@@ -11,6 +11,12 @@
 #   file: filename.ink (relative to stories/{id}/ folder)
 #   release: true/false (false = dev only, true = include in production)
 
+id: consultation-guide
+title: The Consultation
+description: The government is asking what you think. Here's what they're really asking — and what they're not.
+file: main.ink
+release: true
+
 id: big-picture
 title: The Big Picture
 description: Digital ID. Age verification. Facial recognition. What happens when you combine them all?

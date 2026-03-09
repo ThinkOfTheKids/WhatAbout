@@ -1,0 +1,37 @@
+# Sources for The Consultation
+#
+# Format:
+#   [number]: title
+#   url: full URL
+#
+# Use a blank line to separate sources.
+
+[1]: Growing up in the online world: a national conversation — Consultation Document (CP 1528)
+url: https://assets.publishing.service.gov.uk/media/69a494a6286b6fdc85daeb1c/growing_up_in_the_online_world-national-conversation.pdf
+
+[2]: Discord Official Statement: 70,000 government-issued ID photos exposed in third-party breach
+url: https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service
+
+[3]: National Physical Laboratory: Demographic bias in facial recognition technology
+url: https://www.npl.co.uk/research/biometrics/face-recognition-bias
+
+[4]: GOV.UK: Growing up in the online world consultation page
+url: https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation
+
+[5]: Ofcom (2025): Children and Parents — Media Use and Attitudes Report
+url: https://www.ofcom.org.uk/research-and-data/media-literacy-research/childrens
+
+[6]: YMCA: Youth services funding decline report
+url: https://www.ymca.org.uk/research/youth-services-funding
+
+[7]: Hansard: "Growing up in the Online World" Consultation Written Statement (2 March 2026)
+url: https://hansard.parliament.uk/Commons/2026-03-02/debates/2603026000014/GrowingUpInTheOnlineWorldConsultation
+
+[8]: TechDirt: UK age verification data confirms migration to sketchier sites
+url: https://www.techdirt.com/2025/09/08/uk-age-verification-data-confirms-what-critics-always-predicted-mass-migration-to-sketchier-sites/
+
+[9]: Professor Sonia Livingstone: Safeguarding play, children's rights and the internet
+url: https://www.lse.ac.uk/research/research-for-the-world/impact/safeguarding-play-childrens-rights-and-the-internet
+
+[10]: Professor Pete Etchells: Screen time habits research
+url: https://www.theguardian.com/media/2024/mar/16/scroll-on-screen-time-habits-not-bad-for-you-attention-span-brain
