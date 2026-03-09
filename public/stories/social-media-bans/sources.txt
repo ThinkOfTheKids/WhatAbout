@@ -23,3 +23,6 @@ url: https://news.sky.com/story/nearly-half-of-porn-users-are-still-seeing-porn-
 
 [6]: Discord Official Statement: 70,000 government-issued ID photos exposed in third-party breach
 url: https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service
+
+[7]: vmfunc.re: The Watchers — Persona age verification surveillance pipeline revealed
+url: https://vmfunc.re/blog/persona

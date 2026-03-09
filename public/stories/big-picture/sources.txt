@@ -107,3 +107,9 @@ url: https://sociable.co/government-and-policy/china-digital-yuan-cbdc-cash-demo
 
 [36]: CBDC Surveillance and Programmable Money
 url: https://stateofsurveillance.org/articles/government/cbdc-surveillance-control/
+
+[37]: Cybernews: Persona leak links age verification and federal surveillance
+url: https://cybernews.com/privacy/persona-leak-exposes-global-surveillance-capabilities/
+
+[38]: vmfunc.re: The Watchers — Persona age verification surveillance pipeline revealed
+url: https://vmfunc.re/blog/persona

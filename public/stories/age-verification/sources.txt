@@ -32,3 +32,12 @@ url: https://support.xbox.com/en-GB/help/family-online-safety/online-safety/UK-a
 
 [9]: WIRED: Roblox's AI age verification is a complete mess
 url: https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/
+
+[10]: vmfunc.re: The Watchers — How OpenAI, the US Government, and Persona built a surveillance pipeline
+url: https://vmfunc.re/blog/persona
+
+[11]: Cybernews: Persona leak links age verification and federal surveillance
+url: https://cybernews.com/privacy/persona-leak-exposes-global-surveillance-capabilities/
+
+[12]: State of Surveillance: Researchers Expose Persona age verification surveillance
+url: https://stateofsurveillance.org/news/persona-age-verification-surveillance-biometrics-government-reporting-2026/

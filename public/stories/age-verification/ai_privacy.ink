@@ -78,6 +78,8 @@ Now you've created the world's most valuable database:
 
 This is a "honeypot"—a single target so valuable that hackers worldwide will attack it.
 
+And it's not just hackers you need to worry about. In February 2026, leaked source code revealed that Persona—the verification provider used by Discord, OpenAI, Roblox, and Reddit—was running 269 checks per user, filing reports directly to US federal agencies, and screening faces against political watchlists. The company that "just checks your age" was operating a surveillance pipeline.[10]
+
 *   [What's the blackmail potential?]
     -> Blackmail_Scenarios
 *   [But surely it can be secured?]
@@ -123,7 +125,11 @@ Recent breaches:[1]
 • 2021: Facebook leaked 533 million phone numbers
 • 2025: 70,000 identity verification photos stolen from Discord via a third-party breach (hackers claimed 2.1 million)[1]
 
-Age-verification systems are already being compromised. British citizens have had their identity documents and face scans stolen—including children's photos, as companies verify ages for 13+ and 16+ platforms.
+And it's not just breaches. In February 2026, leaked source code from Persona—the age verification provider used by Discord, OpenAI, Roblox, and Reddit—revealed the company was running 269 surveillance checks on every user who submitted ID. Facial recognition against watchlists. Screening for "politically exposed persons." Filing Suspicious Activity Reports directly to US federal agencies including FinCEN. Biometric data retained for up to three years.[7]
+
+Discord cut ties with Persona. But Roblox, Reddit, and others still use them.
+
+The age verification company that was supposed to just check your birthday was actually feeding your face into a government surveillance pipeline.[10]
 
 *   [What would a leak include?]
     -> Leak_Contents

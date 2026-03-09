@@ -11,3 +11,6 @@ url: https://discord.com/press-releases/update-on-security-incident-involving-th
 
 [2]: BBC: Apple's legal challenge over Investigatory Powers Act
 url: https://www.bbc.co.uk/news/articles/cgj54eq4vejo
+
+[5]: vmfunc.re: The Watchers — Persona age verification surveillance pipeline revealed
+url: https://vmfunc.re/blog/persona

@@ -302,3 +302,25 @@
     opacity: 1;
     text-decoration: underline;
 }
+
+.ctaContainer {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.ctaButton {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: var(--color-accent, #4a9eff);
+    color: #fff;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.05rem;
+    transition: background 0.2s, transform 0.15s;
+}
+
+.ctaButton:hover {
+    background: var(--color-accent-hover, #3a8eef);
+    transform: translateY(-1px);
+}

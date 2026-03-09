@@ -4,6 +4,7 @@ import { loadStoryList, loadInkStory } from '../stories';
 
 // Story categories for visual grouping
 const STORY_CATEGORIES = {
+    action: ['consultation-guide'],
     featured: ['big-picture'],
     legislation: ['childrens-wellbeing-bill'],
     core: ['age-verification', 'social-media-bans', 'digital-id'],
@@ -13,6 +14,7 @@ const STORY_CATEGORIES = {
 
 // Icons for each story (using emoji for simplicity - could be replaced with SVGs)
 const STORY_ICONS = {
+    'consultation-guide': '📋',
     'big-picture': '🔗',
     'childrens-wellbeing-bill': '📜',
     'age-verification': '🪪',
@@ -68,6 +70,7 @@ const Hub = ({ onSelectTopic }) => {
     };
 
     const featuredStory = stories.find(s => s.id === 'big-picture');
+    const actionStories = getStoriesByCategory(STORY_CATEGORIES.action);
     const legislationStories = getStoriesByCategory(STORY_CATEGORIES.legislation);
     const coreStories = getStoriesByCategory(STORY_CATEGORIES.core);
     const technicalStories = getStoriesByCategory(STORY_CATEGORIES.technical);
@@ -114,6 +117,14 @@ const Hub = ({ onSelectTopic }) => {
                     <section className={styles.section}>
                         <h2 className={styles.sectionTitle}>Start Here</h2>
                         {renderStoryCard(featuredStory, true)}
+                    </section>
+                )}
+
+                {/* Take Action — time-sensitive consultation */}
+                {actionStories.length > 0 && (
+                    <section className={styles.section}>
+                        <h2 className={styles.sectionTitle}>📢 Take Action — Closes 26 May 2026</h2>
+                        {actionStories.map(story => renderStoryCard(story, true))}
                     </section>
                 )}
 

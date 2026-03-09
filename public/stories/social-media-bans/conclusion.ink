@@ -112,6 +112,10 @@ Age verification data is already being compromised:[6]
 • Multiple breaches of identity verification systems
 • Age verification data being sold to third parties
 
+And in February 2026, leaked source code from Persona—the verification provider used by Discord, OpenAI, Roblox, and Reddit—revealed the company ran 269 surveillance checks per user, filed Suspicious Activity Reports to US federal agencies, and screened faces against political watchlists. The "age check" was actually a government surveillance pipeline.[7]
+
+Discord dropped Persona. But other platforms still use them.
+
 The question: are we willing to create this surveillance infrastructure—with all its risks—for a ban that can be bypassed?
 
 *   [Tell me about the privacy normalization.]

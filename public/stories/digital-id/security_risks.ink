@@ -26,7 +26,11 @@ The National Cyber Security Centre reports four nationally significant cyber att
 # diagram: tech_stack.jpg
 Age-verification systems are already being compromised. In 2025, a third-party breach exposed 70,000 identity verification photos from Discord — hackers claimed the figure was 2.1 million.[2]
 
-Every major company with dedicated security teams has been breached: Equifax, Target, Yahoo, Facebook, LinkedIn.
+But breaches aren't the only threat. In February 2026, leaked source code from Persona—the age verification provider used by Discord, OpenAI, Roblox, and Reddit—revealed the company ran 269 surveillance checks on every user who submitted ID. Facial recognition against political watchlists. Suspicious Activity Reports filed directly to US federal agencies. Biometric data retained for up to three years. The company's commercial and government platforms shared the same codebase.[17]
+
+The company that was "just checking your age" was operating a surveillance pipeline. And it was backed by Peter Thiel's Founders Fund—the same investor behind Palantir, a major contractor for US Immigration and Customs Enforcement (ICE).[17]
+
+Discord cut ties. But Roblox, Reddit, and others still use Persona. Every major company with dedicated security teams has been breached: Equifax, Target, Yahoo, Facebook, LinkedIn.
 
 *   [Maybe we just need better security practices?]
     The problem isn't practices. It's scale.
